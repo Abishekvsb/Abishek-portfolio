@@ -5,9 +5,8 @@ A world-class, premium, dark-themed personal portfolio website designed to showc
 ## 🚀 Live Demo & Hosting
 The portfolio is designed to build and run seamlessly on **Vercel** with optimized security headers and asset caching settings out of the box.
 
-*   **Vercel Target Domain**: `https://abishek-portfolio.vercel.app/`
-*   **Source Code**: `https://github.com/Abishekvsb/Abishek-portfolio.git`
-
+*   **Vercel Target Domain**: 
+https://abishek-portfolio-phi.vercel.app/
 ---
 
 ## 🛠️ Features & Interactive Mechanics
